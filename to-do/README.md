@@ -51,4 +51,6 @@ This project helps users manage daily tasks with a simple and user-friendly inte
 
 ---
 
-=
+## Author
+**Sahithi Bashetty**  
+bashettysahithi@gmail.com  
